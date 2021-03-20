@@ -19,3 +19,4 @@ file = "4M.PNG"
 a = ImageInfo(M3,FORMAT,COLOR,file)
 print(a.imageSize)
 a.create_image()
+
